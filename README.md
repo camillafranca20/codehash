@@ -64,4 +64,4 @@ Foram utilizados o Dbeaver com mySQL para criação das Queries.
 - Query 2:  Listar os Produtos que não tenham sido comprados
 - Query 3: Listar os Produtos sem Estoque;
 - Query 4: Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
--Query 5: Listar os Funcionarios que não estejam relacionados a um Pedido.
+- Query 5: Listar os Funcionarios que não estejam relacionados a um Pedido.
