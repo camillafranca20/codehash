@@ -54,3 +54,7 @@ Construir as seguintes consultas:
 1. Adicione o link do repositório com a sua solução no teste
 2. Verifique se o Readme está bom e faça o commit final em seu repositório;
 3. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
+
+#############################################################################################################
+
+Foram utilizados o Dbeaver com mySQL para criação das Queries. 
