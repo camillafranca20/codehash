@@ -58,3 +58,10 @@ Construir as seguintes consultas:
 #############################################################################################################
 
 Foram utilizados o Dbeaver com mySQL para criação das Queries. 
+ As queries estão referenciadas com o número na sequência da lista solicitada:
+
+ - Query 1 : Listar todos Clientes que não tenham realizado uma compra;
+- Query 2:  Listar os Produtos que não tenham sido comprados
+- Query 3: Listar os Produtos sem Estoque;
+- Query 4: Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
+-Query 5: Listar os Funcionarios que não estejam relacionados a um Pedido.
